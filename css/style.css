@@ -788,13 +788,13 @@ section {
   }
 
   .portfolios {
-    grid-template-columns: repeat(1, 1fr);
+    grid-template-columns: repeat(1, 1fr) !important;
     padding-bottom: 6rem;
     margin-top: 1rem;
   }
 
   .blogs-container {
-    grid-template-columns: repeat(1, 1fr);
+    grid-template-columns: repeat(1, 1fr) !important;
     padding-bottom: 6rem;
   }
 
